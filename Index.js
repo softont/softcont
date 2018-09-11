@@ -1,5 +1,5 @@
 
 
 document.getElementById("title").addEventListener("click", function(){
-    alert("holaaaaaaaaaaaaaaa")
+    alert("lauman")
 });
